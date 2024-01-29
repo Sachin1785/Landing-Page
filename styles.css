@@ -1,8 +1,16 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
 html, body{
     margin: 0;
     padding: 0;
 }
 
+.img{
+    min-height: 160px;
+    max-height: 160px;
+    width: auto;   
+}
 .container-1{
     background-color: #1F2937;
     display: flex;
@@ -201,8 +209,6 @@ html, body{
 }
 
 .img-2{
-    height: 100%;
-    width: 100%;
     flex: 1;
    
 }
@@ -222,6 +228,7 @@ html, body{
 }
 
 .quote{
+    font-family: mukta;
     font-style: italic;
     font-weight: lighter;
     font-size: 36px;
