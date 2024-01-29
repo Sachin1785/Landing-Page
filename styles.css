@@ -135,7 +135,9 @@ html, body{
     flex: 1;
     width: 30%;   
 }
-.clicky{
+
+.clicky
+{
     border-radius: 10px;
     border: 0px solid blueviolet;
     height: 40px;
@@ -147,12 +149,15 @@ html, body{
     align-items: center; 
     display: flex;
 }
-.button-content{
+
+.button-content
+{
     color: #F9FAF8;
     text-align: center;
 }
 
-.container-3{
+.container-3
+{
     background-color: white;
     display: flex;
     border: 0px solid red;
@@ -160,7 +165,8 @@ html, body{
     flex-direction: column;
 }
 
-.random-1{
+.random-1
+{
     font-style: bold;
     color: black;
     font-size: 24px;
@@ -169,7 +175,8 @@ html, body{
     display: flex;
 }
 
-.text-1{
+.text-1
+{
     text-align: center;
     flex: 1;
 }
@@ -197,7 +204,8 @@ html, body{
     flex-direction: column;
 }
 
-.item-1{
+.item-1
+{
     border-radius: 5px;
     height: 80%;
     width: 80%;
@@ -208,26 +216,28 @@ html, body{
     flex: 1;
 }
 
-.img-2{
-    flex: 1;
-   
+.img-2
+{
+    flex: 1; 
 }
 
-.desc{
+.desc
+{
     flex: 1;
     font-size: 18px;
 }
 
-.container-4{
+.container-4
+{
     background-color: #e5e7eb;
-    border: 0px solid red;
-    
+    border: 0px solid red;  
     padding: 0px;
     display: flex;
     flex-direction: column;
 }
 
-.quote{
+.quote
+{
     font-family: mukta;
     font-style: italic;
     font-weight: lighter;
@@ -242,18 +252,21 @@ html, body{
     padding-bottom: 0%;
 }
 
-.quote-center{
+.quote-center
+{
     justify-items:center ;
     display: flex;
-   }
+}
 
-.auth{
+.auth
+{
     display: flex;
     justify-content: flex-end;
     flex-direction: row;
-   }
+}
 
-.auth-name{
+.auth-name
+{
     font-weight: bold;
     font-size: 36px;
     color: #1F2937;
@@ -265,7 +278,8 @@ html, body{
     text-align: right; 
 }
 
-.container-5{
+.container-5
+{
     background-color: white;
     border: 0px solid red;
     padding-top: 4%;
@@ -275,7 +289,9 @@ html, body{
     display: flex;
     
 }
-.signing{
+
+.signing
+{
     flex: 1;
     display: flex;
     background-color: #3882F6;
@@ -284,7 +300,8 @@ html, body{
     flex-direction: row;
 }
 
-.container-6{
+.container-6
+{
     background-color: #1F2937;
     height: 50px;
     display: flex;
@@ -293,4 +310,3 @@ html, body{
     flex-direction: column;
     text-align: center;
 }
-
