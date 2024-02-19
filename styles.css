@@ -299,6 +299,25 @@ html, body{
     height: 100px;
     justify-content: center;
     flex-direction: row;
+    align-items: center;
+}
+
+.signup-msg{
+    flex: 2.5;
+    margin-left: 15%;
+    color: #F9FAF8;
+}
+.signup-button{
+    flex: 1;
+    margin-right: 5%;
+}
+.signup{
+    border-radius: 10px;
+    background-color: #eff8e2;
+    height: 60px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
 }
 
 .container-6
@@ -311,3 +330,40 @@ html, body{
     flex-direction: column;
     text-align: center;
 }
+
+.container-6
+{
+    background-color: #1F2937;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    color: #F9FAF8;
+    flex-direction: column;
+    text-align: center;
+}
+
+a:link {
+    color: #F9FAF8;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #F9FAF8;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  
